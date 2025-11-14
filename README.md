@@ -60,11 +60,11 @@ Python
 
 PyTorch
 
-MONAI (if used)
+MONAI
 
 NumPy, OpenCV, Matplotlib
 
-Jupyter / Colab
+Jupyter 
 
 📁 Project Structure
 ALSeg/
